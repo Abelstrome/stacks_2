@@ -11,12 +11,13 @@ use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
 
-require __DIR__ . '/stacks2/dummy/vendor/autoload.php';
+if ($_SERVER['SERVER_NAME'] == 'localhost') require __DIR__ . '/stacks2/dummy/vendor/autoload.php';
+else require __DIR__ . '/vendor/autoload.php';
 
 $app = AppFactory::create();
 
 if ($_SERVER['SERVER_NAME'] == 'localhost') $app->setBasePath('/dummy');
-else $app->setBasePath('/stacks2/dummy');
+else $app->setBasePath('/');
 
 $errorMiddleware = $app->addErrorMiddleware(true, true, true);
 
