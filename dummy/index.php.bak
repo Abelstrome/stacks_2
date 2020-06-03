@@ -29,8 +29,7 @@ $app->get('/retro', function (Request $request, Response $response, $args) {
 			'items' => array(array('count' => '1', 'dataString' => 'data string 1'), array('count' => 'two', 'dataString' => 'data string 2'))));;
 	//echo $fnResp;
 	$response->getBody()->write($fnResp);
-	//return $response;
-	return $response->withHeader('Content-Type', 'application/json');
+	return $response;
 	
 });
 

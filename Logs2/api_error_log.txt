@@ -1,0 +1,151 @@
+player name gcp1player name barakplayer name barakplayer name barakplayer name barakplayer name lornaplayer name lornaplayer name lorna
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name gcp2
+player name Enter Player Name
+player name Enter Player Name
+player name Enter Player Name
+player name Enter Game Ref
+player name gcp2
+player name Lorna
+player name Barak
+player name Baraks
+player name jordan
+[30-May-2020 12:05:33 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:16:44 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+player name hh
+[30-May-2020 12:17:00 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:19:59 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:20:07 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:20:16 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:20:58 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+[30-May-2020 12:21:23 Europe/Berlin] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 93
+Trace: #0 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(140): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\dummy\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\dummy\index.php(334): Slim\App->run()
+#7 {main}
+player name jj
+player name gcp1
+player name gg
+player name geronimo
+player name gcp1

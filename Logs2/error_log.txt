@@ -1,0 +1,53 @@
+[14-Apr-2019 15:09:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')', expecting ';' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 703
+[14-Apr-2019 15:10:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 741
+[14-Apr-2019 15:11:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 747
+[14-Apr-2019 15:12:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 858
+[14-Apr-2019 15:12:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$fnResp' (T_VARIABLE) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 914
+[14-Apr-2019 15:13:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$fnResp' (T_VARIABLE) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 923
+[14-Apr-2019 15:14:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 1143
+[14-Apr-2019 15:16:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$qryAddGSAction' (T_VARIABLE) in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc on line 214
+[14-Apr-2019 19:48:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3450
+[15-Apr-2019 22:37:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3481
+[16-Apr-2019 23:16:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' new parent GSA recs'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 936
+[19-Apr-2019 11:10:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 4889
+[22-Apr-2019 08:43:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3568
+[22-Apr-2019 08:45:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3569
+[22-Apr-2019 08:46:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3577
+[22-Apr-2019 08:46:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3585
+[22-Apr-2019 09:04:21 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 4888
+[22-Apr-2019 10:03:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 762
+[26-Apr-2019 18:09:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 228
+[03-May-2019 19:08:18 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fnQryUpdateGSAction(), 8 passed in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 299 and exactly 9 expected in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc:356
+Stack trace:
+#0 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(299): fnQryUpdateGSAction('132', '800x1x4x801x0x0...', '3', '810', '129', '800x1x5x801x0x0...', 55, 1)
+#1 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(3596): fnBackPropagation(55, 0, Array)
+#2 C:\xampp\htdocs\stacks2\index.php(27): fnProcessInput('{"TYPE":"TESTIN...')
+#3 {main}
+  thrown in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc on line 356
+[03-May-2019 19:14:35 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fnQryUpdateGSAction(), 8 passed in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 299 and exactly 9 expected in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc:356
+Stack trace:
+#0 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(299): fnQryUpdateGSAction('126', '800x1x4x801x0x0...', '2', '800', '125', '800x1x3x801x1x1...', 55, 1)
+#1 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(3596): fnBackPropagation(55, 0, Array)
+#2 C:\xampp\htdocs\stacks2\index.php(27): fnProcessInput('{"TYPE":"TESTIN...')
+#3 {main}
+  thrown in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc on line 356
+[03-May-2019 19:14:48 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function fnQryUpdateGSAction(), 8 passed in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 299 and exactly 9 expected in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc:356
+Stack trace:
+#0 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(299): fnQryUpdateGSAction('139', '800x1x4x801x0x0...', '2', '810', '137', '800x1x4x801x0x0...', 55, 1)
+#1 C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc(3596): fnBackPropagation(55, 0, Array)
+#2 C:\xampp\htdocs\stacks2\index.php(27): fnProcessInput('{"TYPE":"TESTIN...')
+#3 {main}
+  thrown in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc on line 356
+[25-Apr-2020 10:36:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc:251
+Stack trace:
+#0 C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc(239): fnLogMessageToDb('Connection fail...')
+#1 C:\xampp\htdocs\stacks2\index.php(29): fnDbConnect()
+#2 {main}
+  thrown in C:\xampp\htdocs\stacks2\Brian2\Functions23-1.inc on line 251
+[03-May-2020 15:30:26 Europe/Berlin] PHP Notice:  Undefined variable: stackRows in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 4693
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3995
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3996
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3995
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3996
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3995
+[03-May-2020 16:28:45 Europe/Berlin] PHP Notice:  Undefined index: GameRecID in C:\xampp\htdocs\stacks2\Brian2\Functions21-7.inc on line 3996
