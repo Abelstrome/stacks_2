@@ -3474,7 +3474,6 @@ function fnProcessInput($callString) {
 	global $tbP2NewPlyrName, $tbP2NewGameRef;
 	global $conn, $logLevel;
 
-	echo "here3";
 	fnLogMessageToDb('(' . $logLevel . ') start fnProcessInput');
 
 	//convert call string to upper case
@@ -3482,7 +3481,7 @@ function fnProcessInput($callString) {
 
 	//call function to extract the parameters from the call string
 	$refs=fnFindParams($callString);
-	//print_r($refs);
+	print_r($refs);
 
 	$errCode = ""; $errMsg = "";
 	if (array_key_exists('errCode',$refs) == True) {
@@ -3954,7 +3953,6 @@ function fnProcessInput($callString) {
 			case 'PI':
 			case "PLAYER_INFO":
 			case "PLAYERINFO":
-				echo 'here11';
 				//one parameter which is player name
 				if (count($refs) <> 2) {
 					//error - incorrect number of parameters
@@ -4965,7 +4963,7 @@ function fnErrorHandler($errorLevel,$errorMessage,$errorFile="",$errorLine="",$e
 	else if ( substr($_SERVER['DOCUMENT_ROOT'],-6) == 'stacks') {
 			file_put_contents($_SERVER["DOCUMENT_ROOT"]."/Logs/comment_log.txt",$errString,FILE_APPEND); }
 	else {
-		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks/Logs/comment_log.txt",$errString,FILE_APPEND);
+		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks2/Logs2/comment_log.txt",$errString,FILE_APPEND);
 	}
 
 }
@@ -4986,7 +4984,7 @@ function fnCommentLog($comment) {
 		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/Logs/comment_log.txt",$commentString,FILE_APPEND);
 	}
 	else {
-		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks/Logs/comment_log.txt",$commentString,FILE_APPEND);
+		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks2/Logs2/comment_log.txt",$commentString,FILE_APPEND);
 	}
 }
 //End fnCommentLog

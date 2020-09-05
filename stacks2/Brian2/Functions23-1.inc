@@ -21,7 +21,9 @@ function fnDbConnect() {
 	else if (strpos(strtoupper($_SERVER['DOCUMENT_ROOT']), 'ICODE-GO') !== False) {
 		require $_SERVER['DOCUMENT_ROOT'].'/Alison2/blah.ini'; }
 	else if (strpos(strtoupper($_SERVER['DOCUMENT_ROOT']), 'EPIZY.COM') !== False) {
-		require $_SERVER['DOCUMENT_ROOT'].'/Alison2/blah.ini'; }
+   require $_SERVER['DOCUMENT_ROOT'].'/Alison2/blah.ini'; }
+	else if (strpos(strtoupper($_SERVER['DOCUMENT_ROOT']), 'BYETHOST15.COM') !== False) {
+		require $_SERVER['DOCUMENT_ROOT'].'/stacks2/Alison2/blah.ini'; }
 	else if ($_SERVER['SERVER_NAME'] == 'localhost' or $_SERVER['SERVER_NAME'] == '10.0.2.2') {
 		require 'C:/xampp/htdocs/stacks/Alison2/blah.ini'; }
 	else {

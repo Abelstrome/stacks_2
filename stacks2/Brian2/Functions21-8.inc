@@ -3478,7 +3478,6 @@ function fnProcessInput($callString) {
 
 	//convert call string to upper case
 	$callString = strtoupper($callString);
-
 	//call function to extract the parameters from the call string
 	$refs=fnFindParams($callString);
 	//print_r($refs);
@@ -4963,7 +4962,7 @@ function fnErrorHandler($errorLevel,$errorMessage,$errorFile="",$errorLine="",$e
 	else if ( substr($_SERVER['DOCUMENT_ROOT'],-6) == 'stacks') {
 			file_put_contents($_SERVER["DOCUMENT_ROOT"]."/Logs/comment_log.txt",$errString,FILE_APPEND); }
 	else {
-		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks/Logs/comment_log.txt",$errString,FILE_APPEND);
+		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks2/Logs2/comment_log.txt",$errString,FILE_APPEND);
 	}
 
 }
@@ -4984,7 +4983,7 @@ function fnCommentLog($comment) {
 		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/Logs/comment_log.txt",$commentString,FILE_APPEND);
 	}
 	else {
-		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks/Logs/comment_log.txt",$commentString,FILE_APPEND);
+		file_put_contents($_SERVER["DOCUMENT_ROOT"]."/stacks2/Logs2/comment_log.txt",$commentString,FILE_APPEND);
 	}
 }
 //End fnCommentLog

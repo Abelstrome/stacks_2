@@ -18,6 +18,7 @@ else require __DIR__ . '/vendor/autoload.php';
 $app = AppFactory::create();
 
 if ($_SERVER['SERVER_NAME'] == 'localhost') $app->setBasePath('/dummy');
+else if (strpos(strtoupper($_SERVER['DOCUMENT_ROOT']), 'AMAZON') !== False) $app->setBasePath('/stacks2/dummy');
 else $app->setBasePath('/');
 
 $errorMiddleware = $app->addErrorMiddleware(true, true, true);

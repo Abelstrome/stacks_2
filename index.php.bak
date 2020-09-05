@@ -1,4 +1,5 @@
 <?php
+echo 'hello 1';
 
 ini_set("log_errors", TRUE);
 ini_set("error_log", $_SERVER['DOCUMENT_ROOT'].'/stacks2/Logs2/api_error_log.txt');
